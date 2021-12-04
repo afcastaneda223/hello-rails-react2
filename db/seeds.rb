@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+array = ['Buenos dias', 'good morning', 'Bonjour', 'Buon giorno', 'Bom Dia' ]
+
+
+array.map { |x| Greeting.create(messages: x) }
