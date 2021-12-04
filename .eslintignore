@@ -1,0 +1,12 @@
+lib/*
+node_modules/*
+vendor/*
+**/__tests__/**/*
+bin/*
+public/*
+config/*
+log/*
+tmp/*
+vendor/*
+postcss.config.js
+babel.config.js

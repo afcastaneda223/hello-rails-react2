@@ -9,7 +9,7 @@ const Greetings = ({ greeting }) => (
 );
 
 Greetings.propTypes = {
-  greeting: PropTypes.string,
+  greeting: PropTypes.string.isRequired,
 };
 
 export default Greetings;
