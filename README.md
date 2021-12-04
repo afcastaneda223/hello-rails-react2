@@ -2,6 +2,9 @@
 
 In this project I developed a simple app to connect react with rails and fetch some random information from database.
 
+## Screenshoot
+
+![Screenshoot](./public/Hello.png)
 
 ## Built With
 

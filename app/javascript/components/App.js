@@ -11,6 +11,7 @@ const App = () => {
   }, []);
   return (
     <div>
+      <h1>Hello React Rails</h1>
       <Greetings greeting={state.greeting} />
     </div>
   );
